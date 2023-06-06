@@ -1,0 +1,12 @@
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\bin\Debug\net7.0\JwtTokenAuthentication.deps.json
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\bin\Debug\net7.0\JwtTokenAuthentication.dll
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\bin\Debug\net7.0\JwtTokenAuthentication.pdb
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.csproj.AssemblyReference.cache
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.AssemblyInfoInputs.cache
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.AssemblyInfo.cs
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.csproj.CoreCompileInputs.cache
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.dll
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\refint\JwtTokenAuthentication.dll
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\JwtTokenAuthentication.pdb
+E:\Samples\CodeMazeGuides-main\aspnetcore-webapi\OcelotJwt\JwtTokenAuthentication\obj\Debug\net7.0\ref\JwtTokenAuthentication.dll
